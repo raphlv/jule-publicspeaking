@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Jule Public Speaking - Academy Portal
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## ðŸ“Œ Overview
+## " Overview
 
 Jule Public Speaking is an elegant landing page and workshop enrollment platform designed for public speaking masterclasses, executive coaching, and communication training.
 
@@ -22,7 +22,7 @@ Developed to provide a robust, clean, and production-ready architecture tailored
 
 ---
 
-## âœ¨ Key Features
+##  Key Features
 
 - **Masterclass Schedule & Interactive Curriculum Guide**
 - **Online Event Registration & Payment Gateway Support**
@@ -32,7 +32,7 @@ Developed to provide a robust, clean, and production-ready architecture tailored
 
 ---
 
-## ðŸ› ï¸ Technology Stack
+##   Technology Stack
 
 | Component | Technologies Used |
 | :--- | :--- |
@@ -43,24 +43,24 @@ Developed to provide a robust, clean, and production-ready architecture tailored
 
 ---
 
-## ðŸ“‚ Project Architecture
+## " Project Architecture
 
 `
 jule-publicspeaking/
-â”œâ”€â”€ app/               # Core application logic & controllers
-â”œâ”€â”€ config/            # System & environment configuration
-â”œâ”€â”€ database/          # Database migrations, seeders & schema
-â”œâ”€â”€ public/            # Public web assets (CSS, JS, Images)
-â”œâ”€â”€ resources/         # Views, templates & raw assets
-â”œâ”€â”€ routes/            # Web and API routing definitions
-â”œâ”€â”€ storage/           # Logs, cache & application uploads
-â”œâ”€â”€ README.md          # Project documentation
-â””â”€â”€ .gitignore         # Git repository exclusions
+""" app/               # Core application logic & controllers
+""" config/            # System & environment configuration
+""" database/          # Database migrations, seeders & schema
+""" public/            # Public web assets (CSS, JS, Images)
+""" resources/         # Views, templates & raw assets
+""" routes/            # Web and API routing definitions
+""" storage/           # Logs, cache & application uploads
+""" README.md          # Project documentation
+"""" .gitignore         # Git repository exclusions
 `
 
 ---
 
-## ðŸš€ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ Ensure you have the following installed on your local environment:
 
 ---
 
-## ðŸ¤ Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/raphlv/jule-publicspeaking/issues).
 
@@ -116,12 +116,12 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## ðŸ“ License & Author
+## " License & Author
 
 Distributed under the **MIT License**. See LICENSE for more information.
 
-ðŸ‘¤ **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
-âœ‰ï¸ **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
+' **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
+ **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
 
 ---
 <div align="center">

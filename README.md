@@ -1,0 +1,3 @@
+﻿# jule-publicspeaking
+
+Project repository.

@@ -18,5 +18,33 @@ Landing page and class registration platform for public speaking coaching, maste
 
 ---
 
+## Key Features
+
+- Class Syllabus Directory: Detailed curriculum breakdown for Basic Public Speaking, Advanced MC, and Corporate Voice.
+- Interactive Session Booking: Pick class batch dates and time slots with instant seat reservation.
+- Video Testimonial Carousel: Highlighting student alumni progress and live speaking stage performances.
+- WhatsApp Direct Registration: Instant payload generation linking selected course batch to counselor WhatsApp.
+
+---
+
+## Technology Stack
+
+- Framework: React 18 / Next.js
+- Language: JavaScript (ES6+)
+- Styling: Tailwind CSS
+
+---
+
+## Getting Started
+
+`ash
+git clone https://github.com/raphlv/jule-publicspeaking.git
+cd jule-publicspeaking
+npm install
+npm run dev
+`
+
+---
+
 ## Developer and Maintainer
 Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app

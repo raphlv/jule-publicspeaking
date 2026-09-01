@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# ðŸŽ¤ Jule Public Speaking â€” Professional Coaching & Booking Platform
+# Jule Public Speaking â€” Professional Coaching & Booking Platform
 
 ### *Course Curriculum Catalog, Schedule Booking, & Video Testimonial Hub*
 
@@ -12,9 +12,14 @@
 
 </div>
 
-## ðŸ“Œ About The Project
+## About The Project
 
 Landing page and class registration platform for public speaking coaching, master of ceremonies (MC) masterclasses, and corporate vocal presentation workshops.
 
-<!-- Last verified & polished: 2026-09-01 13:08:36 by Pangeran Ryan Pahlevi -->
+---
+
+## Developer and Maintainer
+Pangeran Ryan Pahlevi â€” https://pangeranryan.vercel.app
+
+<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
 
